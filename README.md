@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Kshitij Srivastav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&height=45&lines=Backend+Developer+%7C+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Microservices;Python+%7C+FastAPI+%7C+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&height=45&lines=Backend+Developer;Java+%7C+Spring+Boot;Python+%7C+FastAPI;Docker+%7C+Kubernetes" alt="Typing SVG">
 </p>
 
 ---
